@@ -133,64 +133,65 @@ namespace TicTacToe
         private void btn1_Click(object sender, EventArgs e)
         {
             btn1.Text = btnIcon();
-            AddToList(1);
             btn1.Enabled = false;
+            AddToList(1);
+            
         }
 
         private void btn2_Click(object sender, EventArgs e)
         {
             btn2.Text = btnIcon();
-            AddToList(2);
             btn2.Enabled = false;
+            AddToList(2);
         }
 
         private void btn3_Click(object sender, EventArgs e)
         {
             btn3.Text = btnIcon();
-            AddToList(3);
             btn3.Enabled = false;
+            AddToList(3);
         }
 
         private void btn4_Click(object sender, EventArgs e)
         {
             btn4.Text = btnIcon();
-            AddToList(4);
             btn4.Enabled = false;
+            AddToList(4);
         }
 
         private void btn5_Click(object sender, EventArgs e)
         {
             btn5.Text = btnIcon();
-            AddToList(5);
             btn5.Enabled = false;
+            AddToList(5);
         }
 
         private void btn6_Click(object sender, EventArgs e)
         {
             btn6.Text = btnIcon();
-            AddToList(6);
             btn6.Enabled = false;
+            AddToList(6);
         }
 
         private void btn7_Click(object sender, EventArgs e)
         {
             btn7.Text = btnIcon();
-            AddToList(7);
             btn7.Enabled = false;
+            AddToList(7);
         }
 
         private void btn8_Click(object sender, EventArgs e)
         {
             btn8.Text = btnIcon();
-            AddToList(8);
             btn8.Enabled = false;
+            AddToList(8);
         }
 
         private void btn9_Click(object sender, EventArgs e)
         {
             btn9.Text = btnIcon();
-            AddToList(9);
             btn9.Enabled = false;
+            AddToList(9);
         }
 
         private void btnNew_Click(object sender, EventArgs e)
